@@ -187,7 +187,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 案例:有道翻译
 
-![alt text](D:\用户文件夹\Desktop\python_spider_node\imgs\youdao.png)
+![alt text](imgs\youdao.png)
 
 
 
@@ -315,12 +315,6 @@ load_data(3)
 **再次提醒,只要获取数据,一定要注意分页的问题.**
 
 https://movie.douban.com/tv/#!type=tv&tag=%E7%83%AD%E9%97%A8&sort=recommend&page_limit=20&page_start=0
-
-
-
-![alt text](imgs/douban.png)
-
-
 
 ~~~python
 from urllib import request,parse,error
