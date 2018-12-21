@@ -12,7 +12,7 @@
 
 片、视频） 爬到本地，进而提取自己需要的数据，存放起来使用.
 
-![](imgs\spider.png)
+![](python_spider_note/imgs/spider.png)
 
 ## 爬虫流程
 
